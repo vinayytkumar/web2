@@ -548,6 +548,7 @@ b, strong {
 }
 
 .w3labout-img img.img-responsive {
+	border-radius: 10px;
     width: 100%;
 	-webkit-transition:.5s all;
 	-moz-transition:.5s all; 
@@ -1806,6 +1807,7 @@ iframe {
 	}
 	.boxw3-agile {
 		width: 100%;
+		border-radius:10px;
 		float: none;
 	}
 	.w3_banner_info {
